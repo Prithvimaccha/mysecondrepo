@@ -1,4 +1,4 @@
 # mysecondrepo
-this is  my second repository 
+This is my second github repository 
 <br>
 Author - Prithviraj Chavan 
